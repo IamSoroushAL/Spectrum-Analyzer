@@ -1,9 +1,9 @@
 # Spectrum-Analyzer
 A spectrum analyzer measures the magnitude of an input signal versus frequency within the full frequency range of the instrument.
-The spectrum analyzer that I desined in this project detects signals in range 4 Hz to 40 kHz and the algorithem which analysis the signal is a C script I wrote based on FFT and DFT.
+The spectrum analyzer that I designed in this project detects signals in the range of 4 Hz to 40 kHz and the algorithm that analyzes the signal is a C script I wrote based on FFT and DFT.
 
 ## Full Description
-The pdf file in this repository is a more detailed description about this project.
+The pdf file in this repository is a more detailed description of this project.
 
 ## Authors
 * **Soroush Ataee***
