@@ -6,7 +6,7 @@ The spectrum analyzer that I designed in this project detects signals in the ran
 The pdf file in this repository is a more detailed description of this project.
 
 ## Authors
-* **Soroush Ataee***
+* **Soroush Ataee**
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
